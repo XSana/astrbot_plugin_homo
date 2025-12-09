@@ -1,0 +1,8 @@
+{
+  "escape_markdown": {
+    "type": "bool",
+    "description": "是否对输出结果进行 Markdown 安全处理（例如包裹代码块或转义 * 等特殊符号）",
+    "hint": "开启后可避免在支持 Markdown 的前端中公式被错误渲染。",
+    "default": false
+  }
+}

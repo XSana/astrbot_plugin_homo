@@ -1,0 +1,6 @@
+name: astrbot_plugin_homo
+display_name: 恶臭数字论证
+desc: 将任意数字强行论证为 114514 相关算式
+version: v114.514.1919810
+author: XSana
+repo: https://github.com/XSana/astrbot_plugin_homo
