@@ -8,7 +8,7 @@ from data.plugins.astrbot_plugin_homo.homo import homo
 
 
 @register("homo", "XSana", "将任意数字强行论证为 114514 相关算式", "114.514.1919810")
-class EatWhat(Star):
+class Homo(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
         super().__init__(context)
 
